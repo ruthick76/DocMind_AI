@@ -1,0 +1,12 @@
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+python-multipart>=0.0.20,<1
+pydantic-settings>=2.8,<3
+langchain-core>=1.0,<2
+langchain-community>=0.4,<0.5
+langchain-openai>=1.0,<2
+langchain-text-splitters>=1.0,<2
+faiss-cpu>=1.10,<2
+pypdf>=6,<7
+httpx>=0.28,<1
+pytest>=8,<10
